@@ -5,6 +5,7 @@ I have a basic understanding of coding from middle school and high school, I see
 Join me in my journey!
 
 ## VIDEO LINKS
+Show What You Know: Explain Your Program:
 https://www.youtube.com/shorts/3I7cHI8qK4c
 <!--
 **jeffaay/jeffaay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
