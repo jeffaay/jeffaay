@@ -3,6 +3,9 @@ I am a third year student at UC San Diego.
 This page is designed as a programming portfolio for my course in EDS124BR, Teaching Computational Thinking for Everyone!
 I have a basic understanding of coding from middle school and high school, I seek to improve my knowledge in the field through this course. 
 Join me in my journey!
+
+## VIDEO LINKS
+https://www.youtube.com/shorts/3I7cHI8qK4c
 <!--
 **jeffaay/jeffaay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
