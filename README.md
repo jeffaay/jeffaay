@@ -6,7 +6,7 @@ Join me in my journey!
 
 ## VIDEO LINKS
 Show What You Know: Explain Your Program:
-https://www.youtube.com/shorts/3I7cHI8qK4c
+[https://www.youtube.com/shorts/3I7cHI8qK4c](https://youtu.be/PnCK98dvdio)
 <!--
 **jeffaay/jeffaay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
