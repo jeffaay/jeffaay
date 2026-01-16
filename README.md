@@ -6,7 +6,10 @@ Join me in my journey!
 
 ## VIDEO LINKS
 Show What You Know: Explain Your Program:
-[https://www.youtube.com/shorts/3I7cHI8qK4c](https://youtu.be/PnCK98dvdio)
+(https://youtu.be/PnCK98dvdio)
+Loop Parade - Lesson Plan:
+(https://youtu.be/Kzc_es91Hrc)
+
 <!--
 **jeffaay/jeffaay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
