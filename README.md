@@ -7,6 +7,7 @@ Join me in my journey!
 ## VIDEO LINKS
 Show What You Know: Explain Your Program:
 (https://youtu.be/PnCK98dvdio)
+
 Loop Parade - Lesson Plan:
 (https://youtu.be/Kzc_es91Hrc)
 
