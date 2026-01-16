@@ -5,10 +5,13 @@ I have a basic understanding of coding from middle school and high school, I see
 Join me in my journey!
 
 ## VIDEO LINKS
-Show What You Know: Explain Your Program:
+Explain Your Program - Draw a House:
 (https://youtu.be/PnCK98dvdio)
 
-Loop Parade - Lesson Plan:
+Write and Explaining a Program - Sprite Dance:
+(https://youtu.be/XE64PpcgMo8)
+
+Lesson Plan - Loop Parade:
 (https://youtu.be/Kzc_es91Hrc)
 
 <!--
