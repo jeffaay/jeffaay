@@ -17,6 +17,9 @@ Lesson Plan - Loop Parade:
 Write and Explain a Program: Nested Repeats:
 (https://youtu.be/ni1LD-2LS1g)
 
+Write and Explain a Program: Snap Monkey:
+(https://youtu.be/zP1dncQHDwg)
+
 <!--
 **jeffaay/jeffaay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
