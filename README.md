@@ -5,19 +5,19 @@ I have a basic understanding of coding from middle school and high school, I see
 Join me in my journey!
 
 ## VIDEO LINKS
-Explain Your Program - Draw a House:
+Write and Explain a Program - Draw a House:
 (https://youtu.be/PnCK98dvdio)
 
-Write and Explaining a Program - Sprite Dance:
+Write and Explain a Program - Sprite Dance:
 (https://youtu.be/XE64PpcgMo8)
 
 Lesson Plan - Loop Parade:
 (https://youtu.be/Kzc_es91Hrc)
 
-Write and Explain a Program: Nested Repeats:
+Write and Explain a Program - Nested Repeats:
 (https://youtu.be/ni1LD-2LS1g)
 
-Write and Explain a Program: Snap Monkey:
+Write and Explain a Program - Snap Monkey:
 (https://youtu.be/zP1dncQHDwg)
 
 <!--
