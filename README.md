@@ -14,6 +14,9 @@ Write and Explaining a Program - Sprite Dance:
 Lesson Plan - Loop Parade:
 (https://youtu.be/Kzc_es91Hrc)
 
+Write and Explain a Program: Nested Repeats:
+(https://youtu.be/ni1LD-2LS1g)
+
 <!--
 **jeffaay/jeffaay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
