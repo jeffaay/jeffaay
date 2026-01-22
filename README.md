@@ -15,7 +15,7 @@ Lesson Plan - Loop Parade:
 (https://youtu.be/Kzc_es91Hrc)
 
 Write and Explain a Program - Nested Repeats:
-(https://youtu.be/ni1LD-2LS1g)
+(https://youtu.be/-f9WJ-E4XkI)
 
 Write and Explain a Program - Snap Monkey:
 (https://youtu.be/SFL0YSVJ5gI)
