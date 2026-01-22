@@ -18,7 +18,7 @@ Write and Explain a Program - Nested Repeats:
 (https://youtu.be/ni1LD-2LS1g)
 
 Write and Explain a Program - Snap Monkey:
-(https://youtu.be/zP1dncQHDwg)
+(https://youtu.be/SFL0YSVJ5gI)
 
 <!--
 **jeffaay/jeffaay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
