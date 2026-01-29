@@ -20,6 +20,9 @@ Write and Explain a Program - Nested Repeats:
 Write and Explain a Program - Snap Monkey:
 (https://youtu.be/SFL0YSVJ5gI)
 
+Write and Explain a Program - Variables:
+(https://youtu.be/YtJU8aNmNls)
+
 <!--
 **jeffaay/jeffaay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
