@@ -23,6 +23,9 @@ Write and Explain a Program - Snap Monkey:
 Write and Explain a Program - Variables:
 (https://youtu.be/YtJU8aNmNls)
 
+Write and Explain a Program - Conditional Loops:
+(https://youtu.be/kC_XiowUAKI)
+
 <!--
 **jeffaay/jeffaay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
