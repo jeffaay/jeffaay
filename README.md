@@ -26,6 +26,9 @@ Write and Explain a Program - Variables:
 Write and Explain a Program - Conditional Loops:
 (https://youtu.be/kC_XiowUAKI)
 
+Write and Explain a Program - If Else:
+(https://youtu.be/c0lTPG1Hwvs)
+
 <!--
 **jeffaay/jeffaay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
