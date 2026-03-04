@@ -34,6 +34,9 @@ Write and Explain a Program - Nested If Else:
 
 Write and Explain a Program - Compound Conditionals:
 (https://youtu.be/bPdfHDEgvQg)
+
+Write and Explain a Program - Abstraction:
+(https://youtu.be/jllc4IX542s)
 <!--
 **jeffaay/jeffaay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
